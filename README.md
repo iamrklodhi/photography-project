@@ -1,4 +1,4 @@
-Photography Landing Page
+<h1>>Photography Landing Page</h1>
 This repository contains the source code for a photography landing page. The page uses an image (photo.jpg) and a custom CSS style sheet (style.css) to create a visually appealing user interface.
 
 Table of Contents
